@@ -19,10 +19,8 @@ function App() {
           </main>
         </div>
       </ThemeProvider>
-    
-      </ColorModeContext.Provider>
-
-    
+          
+      </ColorModeContext.Provider>   
   );
 }
 
